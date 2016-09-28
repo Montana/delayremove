@@ -1,4 +1,4 @@
-### jQuery plugins by Montana Mendy
+<img src="http://www.montanamendy.com/deer.png/>
 
 ### DelayRemove
 
