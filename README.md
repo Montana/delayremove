@@ -1,4 +1,4 @@
-## Montana's custom jQuery plugins (DelayRemove)
+### jQuery plugins by Montana Mendy
 
 ### DelayRemove
 
