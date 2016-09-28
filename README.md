@@ -1,4 +1,4 @@
-<img src="http://www.montanamendy.com/deer.png/">
+<img src="http://www.montanamendy.com/deer.png">
 
 ### DelayRemove
 
