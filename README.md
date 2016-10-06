@@ -23,4 +23,4 @@ A simple plugin to animate out a DOM element after a short delay and then remove
 
 ### Questions 
 
-If you have any questions please email me at montana@getprowl.com.
+If you have any questions please email me at montana@getprowl.com. Written by <a href="http://www.montanamendy.com">Montana Mendy</a>.
