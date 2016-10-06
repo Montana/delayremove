@@ -2,7 +2,7 @@
 
 ### DelayRemove
 
-A simple plugin to animate out a DOM element after a short delay and then remove from DOM once animation is done.
+A simple plugin for React to animate out a DOM element after a short delay and then remove from DOM once animation is done.
 
 ### Usage
 
